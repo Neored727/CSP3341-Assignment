@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+
+    <!-- Targets .NET 10 (LTS). Shown explicitly so the configuration is
+         visible in a screenshot rather than relying on SDK defaults. -->
+    <TargetFramework>net10.0</TargetFramework>
+
+    <!-- Pinned explicitly. This is what the '#error version' directive
+         will report, and it is evidence for the Part B rubric. -->
+    <LangVersion>14.0</LangVersion>
+
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <!-- Treat the project as strict: surfaces nullable-reference warnings,
+         which is worth discussing in the report's semantics section. -->
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <AnalysisLevel>latest</AnalysisLevel>
+
+    <RootNamespace>EnvironmentCheck</RootNamespace>
+    <AssemblyName>EnvironmentCheck</AssemblyName>
+  </PropertyGroup>
+
+</Project>
