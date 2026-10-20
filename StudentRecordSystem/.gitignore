@@ -1,0 +1,12 @@
+# Generated output and local editor state
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+WindowsApp/
+*.zip
+*.bak
+*.tmp
+
+# Actual working records live in LocalApplicationData; sample-data is fictional.

@@ -1,0 +1,6 @@
+  Determining projects to restore...
+  Restored (build workspace)/StudentRecordSystem/src/StudentRecordSystem.App/StudentRecordSystem.App.csproj (in 24.36 sec).
+  Restored (build workspace)/StudentRecordSystem/src/StudentRecordSystem.Core/StudentRecordSystem.Core.csproj (in 24.36 sec).
+  StudentRecordSystem.Core -> (build workspace)/StudentRecordSystem/src/StudentRecordSystem.Core/bin/Release/net10.0/StudentRecordSystem.Core.dll
+  StudentRecordSystem.App -> (build workspace)/StudentRecordSystem/src/StudentRecordSystem.App/bin/Release/net10.0-windows/win-x64/StudentRecordSystem.dll
+  StudentRecordSystem.App -> (build workspace)/StudentRecordSystem/WindowsApp/

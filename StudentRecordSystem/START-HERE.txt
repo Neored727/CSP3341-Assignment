@@ -1,0 +1,29 @@
+STUDENT RECORD SYSTEM — CSP3341
+
+VERSION 1.0.1 — attendance loading and page-width fix.
+Close the old app before opening this version. The window title must show v1.0.1.
+
+1. Extract the entire ZIP. Do not run the app from inside the compressed ZIP.
+2. Open WindowsApp\StudentRecordSystem.exe on a Windows x64 computer.
+3. Sign in as teacher, student1, student2 or student3.
+   Password for every demonstration account: Demo123!
+4. The default reporting date is 16 October 2026, matching the sample data.
+
+TO INSPECT THE SOURCE
+Open StudentRecordSystem.sln in Visual Studio 2026 using File > Open > Project/Solution.
+Set StudentRecordSystem.App as the startup project, then press Ctrl+F5.
+The source targets .NET 10 and uses Windows Forms. The published WindowsApp folder includes its runtime.
+
+TO KEEP YOUR EXISTING ASSIGNMENT 1 WORK
+Put this StudentRecordSystem folder beside EnvironmentCheck in your existing local repository.
+Do not replace EnvironmentCheck and do not create another Git repository.
+
+READ NEXT
+README.md — setup, accounts, formulas, storage and limitations.
+docs\DEMONSTRATION.md — Windows checks and a report demonstration route.
+docs\ASSESSMENT_GUIDE.md — where C# features and trade-offs appear in the source.
+docs\VERIFICATION.md — completed automated verification and pending Windows checks.
+
+STATUS
+The source compiles; 41 automated checks pass. The Windows interface still needs a run and visual check on your computer.
+The data are fictional and local. This is a demonstration, not a deployed school service.

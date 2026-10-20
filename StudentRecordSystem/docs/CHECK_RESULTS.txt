@@ -1,0 +1,43 @@
+PASS  Sample data has valid relationships and two terms
+PASS  Integer-division experiment exposes the error and its correction
+PASS  Deferred-query experiment distinguishes a query from a snapshot
+PASS  Correct credentials produce the linked student session
+PASS  Wrong password and unknown account fail
+PASS  Login trims username and ignores username case
+PASS  Passwords are salted hashes, not plaintext records
+PASS  Student snapshots exclude other student records and accounts
+PASS  Snapshot mutation cannot change live records
+PASS  A forged teacher session is rejected
+PASS  Known teacher details without a registered session are rejected
+PASS  Signing out invalidates the session
+PASS  Student writes are denied at the service boundary
+PASS  Unequal assessment maxima are normalized before averaging
+PASS  Academic average weights subjects equally
+PASS  Zero is included; unmarked results are excluded and counted
+PASS  Empty analytics return no percentage rather than zero
+PASS  As-of filtering excludes later marks
+PASS  Unmarked chart points remain gaps
+PASS  Attendance excludes missing records but reports coverage
+PASS  A weekend does not break an attendance streak
+PASS  Missing latest school day interrupts a verified streak
+PASS  Holiday is excluded from the sample school calendar
+PASS  Attendance does not count future scheduled days as missing
+PASS  Activity coverage distinguishes missed from unrecorded sessions
+PASS  Non-member has no participation percentage
+PASS  Invalid mark is rejected without changing memory or disk
+PASS  Negative marks are rejected
+PASS  Teacher can replace a mark and clear it back to unmarked
+PASS  Attendance on a non-school date is rejected
+PASS  Participation requires activity membership
+PASS  Duplicate session dates are rejected
+PASS  An assessment outside its term is rejected
+PASS  Successful saves round-trip dates, enums and data
+PASS  Second save retains the previous version as backup
+PASS  Corrupt JSON produces a clear error and is not replaced
+PASS  Valid JSON with invalid references is rejected
+PASS  A failed disk save does not alter live records
+PASS  Students cannot export all records
+PASS  Record change event fires after a successful save
+PASS  Concurrent saves retain both students' updates
+
+41 passed; 0 failed.

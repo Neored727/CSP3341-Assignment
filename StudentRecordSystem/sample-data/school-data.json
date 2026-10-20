@@ -1,0 +1,3623 @@
+{
+  "SchemaVersion": 1,
+  "SuggestedAsOf": "2026-10-16",
+  "Students": [
+    {
+      "Id": "S001",
+      "Name": "Amaya Perera",
+      "ClassName": "10 A"
+    },
+    {
+      "Id": "S002",
+      "Name": "Ravi Fernando",
+      "ClassName": "10 A"
+    },
+    {
+      "Id": "S003",
+      "Name": "Nila Silva",
+      "ClassName": "10 A"
+    }
+  ],
+  "Terms": [
+    {
+      "Id": "T2",
+      "Name": "2026 \u00B7 Term 2",
+      "Start": "2026-05-04",
+      "End": "2026-07-24",
+      "SchoolDays": [
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-25",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-19",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-03",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24"
+      ]
+    },
+    {
+      "Id": "T3",
+      "Name": "2026 \u00B7 Term 3",
+      "Start": "2026-09-07",
+      "End": "2026-12-04",
+      "SchoolDays": [
+        "2026-09-07",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-16",
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-23",
+        "2026-11-24",
+        "2026-11-25",
+        "2026-11-26",
+        "2026-11-27",
+        "2026-11-30",
+        "2026-12-01",
+        "2026-12-02",
+        "2026-12-03",
+        "2026-12-04"
+      ]
+    }
+  ],
+  "Accounts": [
+    {
+      "Id": "teacher",
+      "Username": "teacher",
+      "DisplayName": "Ms. Jayasinghe",
+      "Role": "Teacher",
+      "StudentId": null,
+      "Salt": "NJ4747qC\u002BTBgPN6KsgAZdw==",
+      "PasswordHash": "WfvZnV/aqvt5YqVaMe/sjZc4pZKQhqKNw18zKouKdH4="
+    },
+    {
+      "Id": "S001",
+      "Username": "student1",
+      "DisplayName": "Amaya Perera",
+      "Role": "Student",
+      "StudentId": "S001",
+      "Salt": "\u002BHFCnz0me2NTVvRRf8g8xA==",
+      "PasswordHash": "beZHwXAI9Z9UPqu\u002BalEDNIfI3SdmuyEA9ralNgdRWDY="
+    },
+    {
+      "Id": "S002",
+      "Username": "student2",
+      "DisplayName": "Ravi Fernando",
+      "Role": "Student",
+      "StudentId": "S002",
+      "Salt": "7M11poEj1jsW8335NRwVag==",
+      "PasswordHash": "9vbJYf/HrpdfNrJ/U7CrXbFwmoRk5wgiuUmjie3V2Ic="
+    },
+    {
+      "Id": "S003",
+      "Username": "student3",
+      "DisplayName": "Nila Silva",
+      "Role": "Student",
+      "StudentId": "S003",
+      "Salt": "zhPCSso1DIKX7SraXgVIpQ==",
+      "PasswordHash": "8Td3L1sC2ha1fAJnVZzBaW1MhHLFdQzHdL\u002BuBddivvg="
+    }
+  ],
+  "Assessments": [
+    {
+      "Id": "T2-0-0",
+      "TermId": "T2",
+      "Subject": "Mathematics",
+      "Title": "Class assessment 1",
+      "Date": "2026-05-22",
+      "MaximumMark": 100
+    },
+    {
+      "Id": "T2-1-0",
+      "TermId": "T2",
+      "Subject": "Science",
+      "Title": "Class assessment 1",
+      "Date": "2026-05-25",
+      "MaximumMark": 100
+    },
+    {
+      "Id": "T2-2-0",
+      "TermId": "T2",
+      "Subject": "English",
+      "Title": "Class assessment 1",
+      "Date": "2026-05-26",
+      "MaximumMark": 100
+    },
+    {
+      "Id": "T2-3-0",
+      "TermId": "T2",
+      "Subject": "History",
+      "Title": "Class assessment 1",
+      "Date": "2026-05-27",
+      "MaximumMark": 100
+    },
+    {
+      "Id": "T2-0-1",
+      "TermId": "T2",
+      "Subject": "Mathematics",
+      "Title": "Class assessment 2",
+      "Date": "2026-06-12",
+      "MaximumMark": 50
+    },
+    {
+      "Id": "T2-1-1",
+      "TermId": "T2",
+      "Subject": "Science",
+      "Title": "Class assessment 2",
+      "Date": "2026-06-15",
+      "MaximumMark": 50
+    },
+    {
+      "Id": "T2-2-1",
+      "TermId": "T2",
+      "Subject": "English",
+      "Title": "Class assessment 2",
+      "Date": "2026-06-16",
+      "MaximumMark": 50
+    },
+    {
+      "Id": "T2-3-1",
+      "TermId": "T2",
+      "Subject": "History",
+      "Title": "Class assessment 2",
+      "Date": "2026-06-17",
+      "MaximumMark": 50
+    },
+    {
+      "Id": "T2-0-2",
+      "TermId": "T2",
+      "Subject": "Mathematics",
+      "Title": "Progress assessment",
+      "Date": "2026-07-03",
+      "MaximumMark": 100
+    },
+    {
+      "Id": "T2-1-2",
+      "TermId": "T2",
+      "Subject": "Science",
+      "Title": "Progress assessment",
+      "Date": "2026-07-06",
+      "MaximumMark": 100
+    },
+    {
+      "Id": "T2-2-2",
+      "TermId": "T2",
+      "Subject": "English",
+      "Title": "Progress assessment",
+      "Date": "2026-07-07",
+      "MaximumMark": 100
+    },
+    {
+      "Id": "T2-3-2",
+      "TermId": "T2",
+      "Subject": "History",
+      "Title": "Progress assessment",
+      "Date": "2026-07-08",
+      "MaximumMark": 100
+    },
+    {
+      "Id": "T3-0-0",
+      "TermId": "T3",
+      "Subject": "Mathematics",
+      "Title": "Class assessment 1",
+      "Date": "2026-09-11",
+      "MaximumMark": 100
+    },
+    {
+      "Id": "T3-1-0",
+      "TermId": "T3",
+      "Subject": "Science",
+      "Title": "Class assessment 1",
+      "Date": "2026-09-14",
+      "MaximumMark": 100
+    },
+    {
+      "Id": "T3-2-0",
+      "TermId": "T3",
+      "Subject": "English",
+      "Title": "Class assessment 1",
+      "Date": "2026-09-15",
+      "MaximumMark": 100
+    },
+    {
+      "Id": "T3-3-0",
+      "TermId": "T3",
+      "Subject": "History",
+      "Title": "Class assessment 1",
+      "Date": "2026-09-16",
+      "MaximumMark": 100
+    },
+    {
+      "Id": "T3-0-1",
+      "TermId": "T3",
+      "Subject": "Mathematics",
+      "Title": "Class assessment 2",
+      "Date": "2026-09-28",
+      "MaximumMark": 50
+    },
+    {
+      "Id": "T3-1-1",
+      "TermId": "T3",
+      "Subject": "Science",
+      "Title": "Class assessment 2",
+      "Date": "2026-09-29",
+      "MaximumMark": 50
+    },
+    {
+      "Id": "T3-2-1",
+      "TermId": "T3",
+      "Subject": "English",
+      "Title": "Class assessment 2",
+      "Date": "2026-09-30",
+      "MaximumMark": 50
+    },
+    {
+      "Id": "T3-3-1",
+      "TermId": "T3",
+      "Subject": "History",
+      "Title": "Class assessment 2",
+      "Date": "2026-10-01",
+      "MaximumMark": 50
+    },
+    {
+      "Id": "T3-0-2",
+      "TermId": "T3",
+      "Subject": "Mathematics",
+      "Title": "Progress assessment",
+      "Date": "2026-10-12",
+      "MaximumMark": 100
+    },
+    {
+      "Id": "T3-1-2",
+      "TermId": "T3",
+      "Subject": "Science",
+      "Title": "Progress assessment",
+      "Date": "2026-10-13",
+      "MaximumMark": 100
+    },
+    {
+      "Id": "T3-2-2",
+      "TermId": "T3",
+      "Subject": "English",
+      "Title": "Progress assessment",
+      "Date": "2026-10-14",
+      "MaximumMark": 100
+    },
+    {
+      "Id": "T3-3-2",
+      "TermId": "T3",
+      "Subject": "History",
+      "Title": "Progress assessment",
+      "Date": "2026-10-15",
+      "MaximumMark": 100
+    }
+  ],
+  "Marks": [
+    {
+      "StudentId": "S001",
+      "AssessmentId": "T2-0-0",
+      "Mark": 59
+    },
+    {
+      "StudentId": "S002",
+      "AssessmentId": "T2-0-0",
+      "Mark": 62
+    },
+    {
+      "StudentId": "S003",
+      "AssessmentId": "T2-0-0",
+      "Mark": 65
+    },
+    {
+      "StudentId": "S001",
+      "AssessmentId": "T2-1-0",
+      "Mark": 63
+    },
+    {
+      "StudentId": "S002",
+      "AssessmentId": "T2-1-0",
+      "Mark": 66
+    },
+    {
+      "StudentId": "S003",
+      "AssessmentId": "T2-1-0",
+      "Mark": 69
+    },
+    {
+      "StudentId": "S001",
+      "AssessmentId": "T2-2-0",
+      "Mark": 67
+    },
+    {
+      "StudentId": "S002",
+      "AssessmentId": "T2-2-0",
+      "Mark": 70
+    },
+    {
+      "StudentId": "S003",
+      "AssessmentId": "T2-2-0",
+      "Mark": 73
+    },
+    {
+      "StudentId": "S001",
+      "AssessmentId": "T2-3-0",
+      "Mark": 71
+    },
+    {
+      "StudentId": "S002",
+      "AssessmentId": "T2-3-0",
+      "Mark": 74
+    },
+    {
+      "StudentId": "S003",
+      "AssessmentId": "T2-3-0",
+      "Mark": 77
+    },
+    {
+      "StudentId": "S001",
+      "AssessmentId": "T2-0-1",
+      "Mark": 31.5
+    },
+    {
+      "StudentId": "S002",
+      "AssessmentId": "T2-0-1",
+      "Mark": 30
+    },
+    {
+      "StudentId": "S003",
+      "AssessmentId": "T2-0-1",
+      "Mark": 34.5
+    },
+    {
+      "StudentId": "S001",
+      "AssessmentId": "T2-1-1",
+      "Mark": 33.5
+    },
+    {
+      "StudentId": "S002",
+      "AssessmentId": "T2-1-1",
+      "Mark": 32
+    },
+    {
+      "StudentId": "S003",
+      "AssessmentId": "T2-1-1",
+      "Mark": 36.5
+    },
+    {
+      "StudentId": "S001",
+      "AssessmentId": "T2-2-1",
+      "Mark": 35.5
+    },
+    {
+      "StudentId": "S002",
+      "AssessmentId": "T2-2-1",
+      "Mark": 34
+    },
+    {
+      "StudentId": "S003",
+      "AssessmentId": "T2-2-1",
+      "Mark": 38.5
+    },
+    {
+      "StudentId": "S001",
+      "AssessmentId": "T2-3-1",
+      "Mark": 37.5
+    },
+    {
+      "StudentId": "S002",
+      "AssessmentId": "T2-3-1",
+      "Mark": 36
+    },
+    {
+      "StudentId": "S003",
+      "AssessmentId": "T2-3-1",
+      "Mark": 40.5
+    },
+    {
+      "StudentId": "S001",
+      "AssessmentId": "T2-0-2",
+      "Mark": 67
+    },
+    {
+      "StudentId": "S002",
+      "AssessmentId": "T2-0-2",
+      "Mark": 58
+    },
+    {
+      "StudentId": "S003",
+      "AssessmentId": "T2-0-2",
+      "Mark": 73
+    },
+    {
+      "StudentId": "S001",
+      "AssessmentId": "T2-1-2",
+      "Mark": 71
+    },
+    {
+      "StudentId": "S002",
+      "AssessmentId": "T2-1-2",
+      "Mark": 62
+    },
+    {
+      "StudentId": "S001",
+      "AssessmentId": "T2-2-2",
+      "Mark": 75
+    },
+    {
+      "StudentId": "S002",
+      "AssessmentId": "T2-2-2",
+      "Mark": 66
+    },
+    {
+      "StudentId": "S003",
+      "AssessmentId": "T2-2-2",
+      "Mark": 81
+    },
+    {
+      "StudentId": "S001",
+      "AssessmentId": "T2-3-2",
+      "Mark": 79
+    },
+    {
+      "StudentId": "S002",
+      "AssessmentId": "T2-3-2",
+      "Mark": 70
+    },
+    {
+      "StudentId": "S003",
+      "AssessmentId": "T2-3-2",
+      "Mark": 85
+    },
+    {
+      "StudentId": "S001",
+      "AssessmentId": "T3-0-0",
+      "Mark": 66
+    },
+    {
+      "StudentId": "S002",
+      "AssessmentId": "T3-0-0",
+      "Mark": 69
+    },
+    {
+      "StudentId": "S003",
+      "AssessmentId": "T3-0-0",
+      "Mark": 72
+    },
+    {
+      "StudentId": "S001",
+      "AssessmentId": "T3-1-0",
+      "Mark": 70
+    },
+    {
+      "StudentId": "S002",
+      "AssessmentId": "T3-1-0",
+      "Mark": 73
+    },
+    {
+      "StudentId": "S003",
+      "AssessmentId": "T3-1-0",
+      "Mark": 76
+    },
+    {
+      "StudentId": "S001",
+      "AssessmentId": "T3-2-0",
+      "Mark": 74
+    },
+    {
+      "StudentId": "S002",
+      "AssessmentId": "T3-2-0",
+      "Mark": 77
+    },
+    {
+      "StudentId": "S003",
+      "AssessmentId": "T3-2-0",
+      "Mark": 80
+    },
+    {
+      "StudentId": "S001",
+      "AssessmentId": "T3-3-0",
+      "Mark": 78
+    },
+    {
+      "StudentId": "S002",
+      "AssessmentId": "T3-3-0",
+      "Mark": 81
+    },
+    {
+      "StudentId": "S003",
+      "AssessmentId": "T3-3-0",
+      "Mark": 84
+    },
+    {
+      "StudentId": "S001",
+      "AssessmentId": "T3-0-1",
+      "Mark": 35
+    },
+    {
+      "StudentId": "S002",
+      "AssessmentId": "T3-0-1",
+      "Mark": 33.5
+    },
+    {
+      "StudentId": "S003",
+      "AssessmentId": "T3-0-1",
+      "Mark": 38
+    },
+    {
+      "StudentId": "S001",
+      "AssessmentId": "T3-1-1",
+      "Mark": 37
+    },
+    {
+      "StudentId": "S002",
+      "AssessmentId": "T3-1-1",
+      "Mark": 35.5
+    },
+    {
+      "StudentId": "S003",
+      "AssessmentId": "T3-1-1",
+      "Mark": 40
+    },
+    {
+      "StudentId": "S001",
+      "AssessmentId": "T3-2-1",
+      "Mark": 39
+    },
+    {
+      "StudentId": "S002",
+      "AssessmentId": "T3-2-1",
+      "Mark": 37.5
+    },
+    {
+      "StudentId": "S003",
+      "AssessmentId": "T3-2-1",
+      "Mark": 42
+    },
+    {
+      "StudentId": "S001",
+      "AssessmentId": "T3-3-1",
+      "Mark": 41
+    },
+    {
+      "StudentId": "S002",
+      "AssessmentId": "T3-3-1",
+      "Mark": 39.5
+    },
+    {
+      "StudentId": "S003",
+      "AssessmentId": "T3-3-1",
+      "Mark": 44
+    },
+    {
+      "StudentId": "S001",
+      "AssessmentId": "T3-0-2",
+      "Mark": 74
+    },
+    {
+      "StudentId": "S002",
+      "AssessmentId": "T3-0-2",
+      "Mark": 65
+    },
+    {
+      "StudentId": "S003",
+      "AssessmentId": "T3-0-2",
+      "Mark": 80
+    },
+    {
+      "StudentId": "S001",
+      "AssessmentId": "T3-1-2",
+      "Mark": 78
+    },
+    {
+      "StudentId": "S002",
+      "AssessmentId": "T3-1-2",
+      "Mark": 69
+    },
+    {
+      "StudentId": "S001",
+      "AssessmentId": "T3-2-2",
+      "Mark": 82
+    },
+    {
+      "StudentId": "S002",
+      "AssessmentId": "T3-2-2",
+      "Mark": 73
+    },
+    {
+      "StudentId": "S003",
+      "AssessmentId": "T3-2-2",
+      "Mark": 88
+    },
+    {
+      "StudentId": "S001",
+      "AssessmentId": "T3-3-2",
+      "Mark": 86
+    },
+    {
+      "StudentId": "S002",
+      "AssessmentId": "T3-3-2",
+      "Mark": 77
+    },
+    {
+      "StudentId": "S003",
+      "AssessmentId": "T3-3-2",
+      "Mark": 92
+    }
+  ],
+  "Attendance": [
+    {
+      "StudentId": "S001",
+      "Date": "2026-05-04",
+      "Status": "Absent"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-05-04",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-05-04",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-05-05",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-05-05",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-05-05",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-05-06",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-05-06",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-05-06",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-05-07",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-05-07",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-05-07",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-05-08",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-05-08",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-05-08",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-05-11",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-05-11",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-05-11",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-05-12",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-05-12",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-05-12",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-05-13",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-05-13",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-05-13",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-05-14",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-05-14",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-05-14",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-05-15",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-05-15",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-05-15",
+      "Status": "Absent"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-05-18",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-05-18",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-05-18",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-05-19",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-05-19",
+      "Status": "Absent"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-05-19",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-05-20",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-05-20",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-05-20",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-05-21",
+      "Status": "Absent"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-05-21",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-05-21",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-05-22",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-05-22",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-05-22",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-05-25",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-05-25",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-05-25",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-05-26",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-05-26",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-05-26",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-05-27",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-05-27",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-05-27",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-05-28",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-05-28",
+      "Status": "Absent"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-05-28",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-05-29",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-05-29",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-05-29",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-06-01",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-06-01",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-06-01",
+      "Status": "Absent"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-06-02",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-06-02",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-06-02",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-06-03",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-06-03",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-06-03",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-06-04",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-06-04",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-06-04",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-06-05",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-06-05",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-06-05",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-06-08",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-06-08",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-06-08",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-06-09",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-06-09",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-06-09",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-06-10",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-06-10",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-06-10",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-06-11",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-06-11",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-06-11",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-06-12",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-06-12",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-06-12",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-06-15",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-06-15",
+      "Status": "Absent"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-06-15",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-06-16",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-06-16",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-06-16",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-06-17",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-06-17",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-06-17",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-06-18",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-06-18",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-06-18",
+      "Status": "Absent"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-06-19",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-06-19",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-06-19",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-06-22",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-06-22",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-06-22",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-06-23",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-06-23",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-06-23",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-06-24",
+      "Status": "Absent"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-06-24",
+      "Status": "Absent"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-06-24",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-06-25",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-06-25",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-06-25",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-06-26",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-06-26",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-06-26",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-06-29",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-06-29",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-06-29",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-06-30",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-06-30",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-06-30",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-07-01",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-07-01",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-07-01",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-07-02",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-07-02",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-07-02",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-07-03",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-07-03",
+      "Status": "Absent"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-07-03",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-07-06",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-07-06",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-07-06",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-07-07",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-07-07",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-07-07",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-07-08",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-07-08",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-07-08",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-07-09",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-07-09",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-07-09",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-07-10",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-07-10",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-07-10",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-07-13",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-07-13",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-07-13",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-07-14",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-07-14",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-07-14",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-07-15",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-07-15",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-07-15",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-07-16",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-07-16",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-07-16",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-07-17",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-07-17",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-07-17",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-07-20",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-07-20",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-07-20",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-07-21",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-07-21",
+      "Status": "Absent"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-07-21",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-07-22",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-07-22",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-07-22",
+      "Status": "Absent"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-07-23",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-07-23",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-07-23",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-07-24",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-07-24",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-07-24",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-09-07",
+      "Status": "Absent"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-09-07",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-09-07",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-09-08",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-09-08",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-09-08",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-09-09",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-09-09",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-09-09",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-09-10",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-09-10",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-09-10",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-09-11",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-09-11",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-09-11",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-09-14",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-09-14",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-09-14",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-09-15",
+      "Status": "Excused"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-09-15",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-09-15",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-09-16",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-09-16",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-09-16",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-09-17",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-09-17",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-09-17",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-09-18",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-09-18",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-09-18",
+      "Status": "Absent"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-09-21",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-09-21",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-09-21",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-09-22",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-09-22",
+      "Status": "Absent"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-09-22",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-09-24",
+      "Status": "Absent"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-09-24",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-09-24",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-09-25",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-09-25",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-09-25",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-09-28",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-09-28",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-09-28",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-09-29",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-09-29",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-09-29",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-09-30",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-09-30",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-09-30",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-10-01",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-10-01",
+      "Status": "Absent"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-10-01",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-10-02",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-10-02",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-10-02",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-10-05",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-10-05",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-10-05",
+      "Status": "Absent"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-10-06",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-10-06",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-10-06",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-10-07",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-10-07",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-10-07",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-10-08",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-10-08",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-10-08",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-10-09",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-10-09",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-10-09",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-10-12",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-10-12",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-10-12",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-10-13",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-10-13",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-10-13",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-10-14",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-10-14",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-10-15",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-10-15",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-10-15",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S001",
+      "Date": "2026-10-16",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S002",
+      "Date": "2026-10-16",
+      "Status": "Present"
+    },
+    {
+      "StudentId": "S003",
+      "Date": "2026-10-16",
+      "Status": "Present"
+    }
+  ],
+  "Activities": [
+    {
+      "Id": "cricket",
+      "Name": "Cricket",
+      "Kind": "Sport"
+    },
+    {
+      "Id": "swimming",
+      "Name": "Swimming",
+      "Kind": "Sport"
+    },
+    {
+      "Id": "debate",
+      "Name": "Debating Society",
+      "Kind": "Club"
+    },
+    {
+      "Id": "music",
+      "Name": "Music Club",
+      "Kind": "Club"
+    }
+  ],
+  "Memberships": [
+    {
+      "StudentId": "S001",
+      "ActivityId": "cricket"
+    },
+    {
+      "StudentId": "S001",
+      "ActivityId": "debate"
+    },
+    {
+      "StudentId": "S002",
+      "ActivityId": "swimming"
+    },
+    {
+      "StudentId": "S002",
+      "ActivityId": "music"
+    },
+    {
+      "StudentId": "S003",
+      "ActivityId": "cricket"
+    },
+    {
+      "StudentId": "S003",
+      "ActivityId": "music"
+    }
+  ],
+  "Sessions": [
+    {
+      "Id": "T2-cricket-0",
+      "ActivityId": "cricket",
+      "Date": "2026-05-05",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-cricket-1",
+      "ActivityId": "cricket",
+      "Date": "2026-05-07",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-cricket-2",
+      "ActivityId": "cricket",
+      "Date": "2026-05-12",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-cricket-3",
+      "ActivityId": "cricket",
+      "Date": "2026-05-14",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-cricket-4",
+      "ActivityId": "cricket",
+      "Date": "2026-05-19",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-cricket-5",
+      "ActivityId": "cricket",
+      "Date": "2026-05-21",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-cricket-6",
+      "ActivityId": "cricket",
+      "Date": "2026-05-26",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-cricket-7",
+      "ActivityId": "cricket",
+      "Date": "2026-05-28",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-cricket-8",
+      "ActivityId": "cricket",
+      "Date": "2026-06-02",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-cricket-9",
+      "ActivityId": "cricket",
+      "Date": "2026-06-04",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-cricket-10",
+      "ActivityId": "cricket",
+      "Date": "2026-06-09",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-cricket-11",
+      "ActivityId": "cricket",
+      "Date": "2026-06-11",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-cricket-12",
+      "ActivityId": "cricket",
+      "Date": "2026-06-16",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-cricket-13",
+      "ActivityId": "cricket",
+      "Date": "2026-06-18",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-cricket-14",
+      "ActivityId": "cricket",
+      "Date": "2026-06-23",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-cricket-15",
+      "ActivityId": "cricket",
+      "Date": "2026-06-25",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-cricket-16",
+      "ActivityId": "cricket",
+      "Date": "2026-06-30",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-cricket-17",
+      "ActivityId": "cricket",
+      "Date": "2026-07-02",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-cricket-18",
+      "ActivityId": "cricket",
+      "Date": "2026-07-07",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-cricket-19",
+      "ActivityId": "cricket",
+      "Date": "2026-07-09",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-cricket-20",
+      "ActivityId": "cricket",
+      "Date": "2026-07-14",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-cricket-21",
+      "ActivityId": "cricket",
+      "Date": "2026-07-16",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-cricket-22",
+      "ActivityId": "cricket",
+      "Date": "2026-07-21",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-cricket-23",
+      "ActivityId": "cricket",
+      "Date": "2026-07-23",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-swimming-0",
+      "ActivityId": "swimming",
+      "Date": "2026-05-05",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-swimming-1",
+      "ActivityId": "swimming",
+      "Date": "2026-05-07",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-swimming-2",
+      "ActivityId": "swimming",
+      "Date": "2026-05-12",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-swimming-3",
+      "ActivityId": "swimming",
+      "Date": "2026-05-14",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-swimming-4",
+      "ActivityId": "swimming",
+      "Date": "2026-05-19",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-swimming-5",
+      "ActivityId": "swimming",
+      "Date": "2026-05-21",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-swimming-6",
+      "ActivityId": "swimming",
+      "Date": "2026-05-26",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-swimming-7",
+      "ActivityId": "swimming",
+      "Date": "2026-05-28",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-swimming-8",
+      "ActivityId": "swimming",
+      "Date": "2026-06-02",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-swimming-9",
+      "ActivityId": "swimming",
+      "Date": "2026-06-04",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-swimming-10",
+      "ActivityId": "swimming",
+      "Date": "2026-06-09",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-swimming-11",
+      "ActivityId": "swimming",
+      "Date": "2026-06-11",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-swimming-12",
+      "ActivityId": "swimming",
+      "Date": "2026-06-16",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-swimming-13",
+      "ActivityId": "swimming",
+      "Date": "2026-06-18",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-swimming-14",
+      "ActivityId": "swimming",
+      "Date": "2026-06-23",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-swimming-15",
+      "ActivityId": "swimming",
+      "Date": "2026-06-25",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-swimming-16",
+      "ActivityId": "swimming",
+      "Date": "2026-06-30",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-swimming-17",
+      "ActivityId": "swimming",
+      "Date": "2026-07-02",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-swimming-18",
+      "ActivityId": "swimming",
+      "Date": "2026-07-07",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-swimming-19",
+      "ActivityId": "swimming",
+      "Date": "2026-07-09",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-swimming-20",
+      "ActivityId": "swimming",
+      "Date": "2026-07-14",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-swimming-21",
+      "ActivityId": "swimming",
+      "Date": "2026-07-16",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-swimming-22",
+      "ActivityId": "swimming",
+      "Date": "2026-07-21",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-swimming-23",
+      "ActivityId": "swimming",
+      "Date": "2026-07-23",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T2-debate-0",
+      "ActivityId": "debate",
+      "Date": "2026-05-08",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T2-debate-1",
+      "ActivityId": "debate",
+      "Date": "2026-05-15",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T2-debate-2",
+      "ActivityId": "debate",
+      "Date": "2026-05-22",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T2-debate-3",
+      "ActivityId": "debate",
+      "Date": "2026-05-29",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T2-debate-4",
+      "ActivityId": "debate",
+      "Date": "2026-06-05",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T2-debate-5",
+      "ActivityId": "debate",
+      "Date": "2026-06-12",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T2-debate-6",
+      "ActivityId": "debate",
+      "Date": "2026-06-19",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T2-debate-7",
+      "ActivityId": "debate",
+      "Date": "2026-06-26",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T2-debate-8",
+      "ActivityId": "debate",
+      "Date": "2026-07-03",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T2-debate-9",
+      "ActivityId": "debate",
+      "Date": "2026-07-10",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T2-debate-10",
+      "ActivityId": "debate",
+      "Date": "2026-07-17",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T2-debate-11",
+      "ActivityId": "debate",
+      "Date": "2026-07-24",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T2-music-0",
+      "ActivityId": "music",
+      "Date": "2026-05-08",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T2-music-1",
+      "ActivityId": "music",
+      "Date": "2026-05-15",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T2-music-2",
+      "ActivityId": "music",
+      "Date": "2026-05-22",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T2-music-3",
+      "ActivityId": "music",
+      "Date": "2026-05-29",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T2-music-4",
+      "ActivityId": "music",
+      "Date": "2026-06-05",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T2-music-5",
+      "ActivityId": "music",
+      "Date": "2026-06-12",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T2-music-6",
+      "ActivityId": "music",
+      "Date": "2026-06-19",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T2-music-7",
+      "ActivityId": "music",
+      "Date": "2026-06-26",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T2-music-8",
+      "ActivityId": "music",
+      "Date": "2026-07-03",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T2-music-9",
+      "ActivityId": "music",
+      "Date": "2026-07-10",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T2-music-10",
+      "ActivityId": "music",
+      "Date": "2026-07-17",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T2-music-11",
+      "ActivityId": "music",
+      "Date": "2026-07-24",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T3-cricket-0",
+      "ActivityId": "cricket",
+      "Date": "2026-09-08",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T3-cricket-1",
+      "ActivityId": "cricket",
+      "Date": "2026-09-10",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T3-cricket-2",
+      "ActivityId": "cricket",
+      "Date": "2026-09-15",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T3-cricket-3",
+      "ActivityId": "cricket",
+      "Date": "2026-09-17",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T3-cricket-4",
+      "ActivityId": "cricket",
+      "Date": "2026-09-22",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T3-cricket-5",
+      "ActivityId": "cricket",
+      "Date": "2026-09-24",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T3-cricket-6",
+      "ActivityId": "cricket",
+      "Date": "2026-09-29",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T3-cricket-7",
+      "ActivityId": "cricket",
+      "Date": "2026-10-01",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T3-cricket-8",
+      "ActivityId": "cricket",
+      "Date": "2026-10-06",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T3-cricket-9",
+      "ActivityId": "cricket",
+      "Date": "2026-10-08",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T3-cricket-10",
+      "ActivityId": "cricket",
+      "Date": "2026-10-13",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T3-cricket-11",
+      "ActivityId": "cricket",
+      "Date": "2026-10-15",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T3-swimming-0",
+      "ActivityId": "swimming",
+      "Date": "2026-09-08",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T3-swimming-1",
+      "ActivityId": "swimming",
+      "Date": "2026-09-10",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T3-swimming-2",
+      "ActivityId": "swimming",
+      "Date": "2026-09-15",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T3-swimming-3",
+      "ActivityId": "swimming",
+      "Date": "2026-09-17",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T3-swimming-4",
+      "ActivityId": "swimming",
+      "Date": "2026-09-22",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T3-swimming-5",
+      "ActivityId": "swimming",
+      "Date": "2026-09-24",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T3-swimming-6",
+      "ActivityId": "swimming",
+      "Date": "2026-09-29",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T3-swimming-7",
+      "ActivityId": "swimming",
+      "Date": "2026-10-01",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T3-swimming-8",
+      "ActivityId": "swimming",
+      "Date": "2026-10-06",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T3-swimming-9",
+      "ActivityId": "swimming",
+      "Date": "2026-10-08",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T3-swimming-10",
+      "ActivityId": "swimming",
+      "Date": "2026-10-13",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T3-swimming-11",
+      "ActivityId": "swimming",
+      "Date": "2026-10-15",
+      "Description": "Practice session"
+    },
+    {
+      "Id": "T3-debate-0",
+      "ActivityId": "debate",
+      "Date": "2026-09-11",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T3-debate-1",
+      "ActivityId": "debate",
+      "Date": "2026-09-18",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T3-debate-2",
+      "ActivityId": "debate",
+      "Date": "2026-09-25",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T3-debate-3",
+      "ActivityId": "debate",
+      "Date": "2026-10-02",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T3-debate-4",
+      "ActivityId": "debate",
+      "Date": "2026-10-09",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T3-debate-5",
+      "ActivityId": "debate",
+      "Date": "2026-10-16",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T3-music-0",
+      "ActivityId": "music",
+      "Date": "2026-09-11",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T3-music-1",
+      "ActivityId": "music",
+      "Date": "2026-09-18",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T3-music-2",
+      "ActivityId": "music",
+      "Date": "2026-09-25",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T3-music-3",
+      "ActivityId": "music",
+      "Date": "2026-10-02",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T3-music-4",
+      "ActivityId": "music",
+      "Date": "2026-10-09",
+      "Description": "Club meeting / contribution"
+    },
+    {
+      "Id": "T3-music-5",
+      "ActivityId": "music",
+      "Date": "2026-10-16",
+      "Description": "Club meeting / contribution"
+    }
+  ],
+  "Participation": [
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-cricket-0",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-cricket-0",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-cricket-1",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-cricket-1",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-cricket-2",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-cricket-2",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-cricket-3",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-cricket-3",
+      "Attended": false
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-cricket-4",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-cricket-4",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-cricket-5",
+      "Attended": false
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-cricket-5",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-cricket-6",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-cricket-6",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-cricket-7",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-cricket-7",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-cricket-8",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-cricket-8",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-cricket-9",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-cricket-9",
+      "Attended": false
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-cricket-10",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-cricket-10",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-cricket-11",
+      "Attended": false
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-cricket-11",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-cricket-12",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-cricket-12",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-cricket-13",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-cricket-13",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-cricket-14",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-cricket-14",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-cricket-15",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-cricket-15",
+      "Attended": false
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-cricket-16",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-cricket-16",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-cricket-17",
+      "Attended": false
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-cricket-17",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-cricket-18",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-cricket-18",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-cricket-19",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-cricket-19",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-cricket-20",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-cricket-20",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-cricket-21",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-cricket-21",
+      "Attended": false
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-cricket-22",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-cricket-22",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-cricket-23",
+      "Attended": false
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-cricket-23",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-swimming-0",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-swimming-1",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-swimming-2",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-swimming-3",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-swimming-4",
+      "Attended": false
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-swimming-5",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-swimming-6",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-swimming-7",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-swimming-8",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-swimming-9",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-swimming-10",
+      "Attended": false
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-swimming-11",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-swimming-12",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-swimming-13",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-swimming-14",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-swimming-15",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-swimming-16",
+      "Attended": false
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-swimming-17",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-swimming-18",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-swimming-19",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-swimming-20",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-swimming-21",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-swimming-22",
+      "Attended": false
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-swimming-23",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-debate-0",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-debate-1",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-debate-2",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-debate-3",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-debate-4",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-debate-5",
+      "Attended": false
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-debate-6",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-debate-7",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-debate-8",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-debate-9",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-debate-10",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T2-debate-11",
+      "Attended": false
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-music-0",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-music-0",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-music-1",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-music-1",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-music-2",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-music-2",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-music-3",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-music-3",
+      "Attended": false
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-music-4",
+      "Attended": false
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-music-4",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-music-5",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-music-5",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-music-6",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-music-6",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-music-7",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-music-7",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-music-8",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-music-8",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-music-9",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-music-9",
+      "Attended": false
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-music-10",
+      "Attended": false
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-music-10",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T2-music-11",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T2-music-11",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T3-cricket-0",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T3-cricket-0",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T3-cricket-1",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T3-cricket-1",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T3-cricket-2",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T3-cricket-2",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T3-cricket-3",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T3-cricket-3",
+      "Attended": false
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T3-cricket-4",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T3-cricket-4",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T3-cricket-5",
+      "Attended": false
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T3-cricket-5",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T3-cricket-6",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T3-cricket-6",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T3-cricket-7",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T3-cricket-7",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T3-cricket-8",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T3-cricket-8",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T3-cricket-9",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T3-cricket-9",
+      "Attended": false
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T3-cricket-10",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T3-cricket-10",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T3-cricket-11",
+      "Attended": false
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T3-cricket-11",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T3-swimming-0",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T3-swimming-1",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T3-swimming-2",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T3-swimming-3",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T3-swimming-4",
+      "Attended": false
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T3-swimming-5",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T3-swimming-6",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T3-swimming-7",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T3-swimming-8",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T3-swimming-9",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T3-swimming-10",
+      "Attended": false
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T3-swimming-11",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T3-debate-0",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T3-debate-1",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T3-debate-2",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T3-debate-3",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T3-debate-4",
+      "Attended": true
+    },
+    {
+      "StudentId": "S001",
+      "SessionId": "T3-debate-5",
+      "Attended": false
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T3-music-0",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T3-music-0",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T3-music-1",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T3-music-1",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T3-music-2",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T3-music-2",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T3-music-3",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T3-music-3",
+      "Attended": false
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T3-music-4",
+      "Attended": false
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T3-music-4",
+      "Attended": true
+    },
+    {
+      "StudentId": "S002",
+      "SessionId": "T3-music-5",
+      "Attended": true
+    },
+    {
+      "StudentId": "S003",
+      "SessionId": "T3-music-5",
+      "Attended": true
+    }
+  ],
+  "Achievements": [
+    {
+      "Id": "A1",
+      "StudentId": "S001",
+      "ActivityId": "cricket",
+      "Date": "2026-09-24",
+      "Title": "Interschool match participation",
+      "Notes": "Represented the school team; participation recorded by the teacher."
+    },
+    {
+      "Id": "A2",
+      "StudentId": "S001",
+      "ActivityId": "debate",
+      "Date": "2026-10-02",
+      "Title": "Debate event contribution",
+      "Notes": "Helped organise the junior debate workshop."
+    },
+    {
+      "Id": "A3",
+      "StudentId": "S002",
+      "ActivityId": "swimming",
+      "Date": "2026-10-08",
+      "Title": "50 m freestyle \u00B7 second place",
+      "Notes": "Fictional school sports meet result."
+    },
+    {
+      "Id": "A4",
+      "StudentId": "S003",
+      "ActivityId": "music",
+      "Date": "2026-09-25",
+      "Title": "School concert performance",
+      "Notes": "Participated in the term concert."
+    }
+  ]
+}

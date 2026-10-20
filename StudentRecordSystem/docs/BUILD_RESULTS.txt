@@ -1,0 +1,13 @@
+  Determining projects to restore...
+  Restored (build workspace)/StudentRecordSystem/src/StudentRecordSystem.Core/StudentRecordSystem.Core.csproj (in 166 ms).
+  Restored (build workspace)/StudentRecordSystem/src/StudentRecordSystem.App/StudentRecordSystem.App.csproj (in 185 ms).
+  Restored (build workspace)/StudentRecordSystem/tests/StudentRecordSystem.Checks/StudentRecordSystem.Checks.csproj (in 185 ms).
+  StudentRecordSystem.Core -> (build workspace)/StudentRecordSystem/src/StudentRecordSystem.Core/bin/Release/net10.0/StudentRecordSystem.Core.dll
+  StudentRecordSystem.App -> (build workspace)/StudentRecordSystem/src/StudentRecordSystem.App/bin/Release/net10.0-windows/StudentRecordSystem.dll
+  StudentRecordSystem.Checks -> (build workspace)/StudentRecordSystem/tests/StudentRecordSystem.Checks/bin/Release/net10.0/StudentRecordSystem.Checks.dll
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:09.48
